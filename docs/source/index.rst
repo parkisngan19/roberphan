@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Rober Phan
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Rober Phan <https://sun9win.com/author/roberphan/>`_ là một trong những nhân vật chủ chốt của Sunwin, đóng vai trò quan trọng trong việc phát triển và điều hành nền tảng giải trí trực tuyến hàng đầu này. Với kinh nghiệm lâu năm trong ngành giải trí và chơi game trực tuyến, Rober Phan đã góp phần đưa Sunwin trở thành một thương hiệu uy tín, nổi bật nhờ vào sự sáng tạo trong việc cải tiến sản phẩm và nâng cao chất lượng dịch vụ. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Dưới sự dẫn dắt của anh, Sunwin không ngừng mở rộng hệ sinh thái game, cải thiện giao diện người dùng, và đảm bảo một môi trường chơi game an toàn và công bằng. Rober Phan luôn chú trọng đến việc xây dựng mối quan hệ lâu dài với người chơi thông qua các chương trình khuyến mãi hấp dẫn và dịch vụ hỗ trợ tận tình, giúp Sunwin ghi dấu ấn vững chắc trong lòng người dùng toàn cầu.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 62 Liên Khu 4-5, Bình Hưng Hoà B, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0311532417. 
 
-.. toctree::
+Email: contact@sun9win.com. 
 
-   usage
-   api
+Website: https://sun9win.com/author/roberphan/ 
+
+#roberphan #ceoroberphan #roberphan_sunwin
